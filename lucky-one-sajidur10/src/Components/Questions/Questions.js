@@ -1,4 +1,5 @@
 import React from 'react';
+import './Questions.css'
 
 const Questions = () => {
     return (
@@ -6,7 +7,7 @@ const Questions = () => {
             <h1 class="text-center fw-bolder">Frequently Asked Questions
             </h1>
 
-            <div class="accordion-w">
+            <div class="accordion-w ">
                 <div class="accordion accordion-flush ." id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
