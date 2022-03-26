@@ -1,0 +1,32 @@
+.developer{
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    border-radius: 6px;
+    color: #2D354A;
+    font-family: 'Poppins', sans-serif;
+}
+.developer img{
+    height: 125px;
+}
+.developer h5{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.items-info{
+    text-align: left;
+    margin-bottom: 25px;
+}
+.items-info p{
+    font-size: 15px;
+}
+
+.btn-regular{
+    background-color: #31394D;
+    color: #fff;
+    padding: 8px 22px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 13px;
+}
